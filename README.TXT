@@ -18,4 +18,4 @@ USER INSTRUCTIONS: Complete the exercises in Chapter 2.
 
 Hi this is E.
 
-Hi
+Hi...this took so long...
